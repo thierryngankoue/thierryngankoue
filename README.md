@@ -48,7 +48,7 @@ I am a graduate in digital transformation 🎓 from Efrei Paris 🏛. I am a Pas
 
 [![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/thierryngankoue/student-list-projet)
 
-### IOT Projects
+### Connected mailbox Project
 
 [![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/efrei-paris-sud/2020-F-Tor_factory/tree/main/project)
 
