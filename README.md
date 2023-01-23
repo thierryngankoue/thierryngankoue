@@ -25,7 +25,7 @@ I am a graduate in digital transformation 🎓 from Efrei Paris 🏛. I am a Pas
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
+![Java](https://img.shields.io/badge/-Java-000?&logo=java)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
@@ -46,7 +46,7 @@ I am a graduate in digital transformation 🎓 from Efrei Paris 🏛. I am a Pas
 
 ### DevOps Projects
 
-[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/thierryngankoue)
+[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/thierryngankoue/student-list-projet)
 
 
 ## &#x1f4c8; GitHub Stats
