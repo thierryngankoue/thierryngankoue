@@ -40,13 +40,13 @@ I am a graduate in digital transformation 🎓 from Efrei Paris 🏛. I am a Pas
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 
-### Full Stack Projects
-
-[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/thierryngankoue)
-
 ### DevOps Projects
 
 [![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/thierryngankoue/student-list-projet)
+
+### Full Stack Projects
+
+[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/thierryngankoue)
 
 ### Connected mailbox Project
 
