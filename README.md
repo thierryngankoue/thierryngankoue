@@ -47,7 +47,7 @@ I am a graduate in digital transformation 🎓 from Efrei Paris 🏛. I am a Pas
 
 ### Full Stack Projects
 
-[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/thierryngankoue)
+[![](https://img.shields.io/badge/-🧬%20My%20Angular_projet-000)](https://github.com/thierryngankoue/AngularProjet)
 
 ### Connected mailbox Project
 
