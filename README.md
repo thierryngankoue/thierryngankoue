@@ -44,6 +44,7 @@ I am a graduate in digital transformation 🎓 from Efrei Paris 🏛. I am a Pas
 
 [![](https://img.shields.io/badge/-🧬%20My%20Docker_projet_01-000)](https://github.com/thierryngankoue/student-list-projet)
 [![](https://img.shields.io/badge/-🧬%20My%20Jenkins_projet_01-000)](https://github.com/thierryngankoue/static-web-site-jenkins)
+[![](https://img.shields.io/badge/-🧬%20My%20Devops_projet_01-000)](https://github.com/thierryngankoue/ic-projet-redfile.git)
 
 ### Full Stack Projects
 
